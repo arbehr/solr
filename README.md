@@ -1,6 +1,6 @@
 # solr
 
-1)Instalar Solr(Qualquer nova versão)
+#1)Instalar Solr(Qualquer nova versão)
 2) Subir o servidor com o comando:
    
    bin/solr start
