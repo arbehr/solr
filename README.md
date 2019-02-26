@@ -3,7 +3,7 @@
 1. Instalar Solr: https://tecadmin.net/install-apache-solr-on-ubuntu/ , mudando a versão para 7.7.0 ou a última que estiver disponivel no site
 2. Subir o servidor com o comando:
    
-   <br /> bin/solr start
+   <br /> sudo -u solr bin/solr start
    
 <br /> Obs: É preciso estar na pasta do Solr onde existe a pasta bin. 
 
