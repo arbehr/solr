@@ -1,0 +1,35 @@
+{
+   "document":{
+      "id":"3",
+      "metadata":{
+         "id":"1",
+         "title":"gg",
+         "language":"bla bla",
+         "aggregationLevel":"prod1",
+         "structure":"Andre",
+         "author":"teste",
+         "data":"22052000",
+         "interactivityType":"inttype",
+         "interactivityLevel":"intlevel",
+         "perception":"perc",
+         "copresense":"co",
+         "reciprocity":"reci",
+         "tipicalLearningTime":"tipical",
+         "eduLanguage":"edu",
+         "synchronism":"sync",
+         "visual":"visual",
+         "auditory":"aud",
+         "textual":"tex",
+         "tactil":"tac",
+         "size":"size",
+         "format":"form",
+         "requirementsType":"reqtype",
+         "requirementsName":"reqname",
+         "requirementsMinimumVersion":"reqvers",
+         "installationRemarks":"inst",
+         "duration":"2",
+         "otherPlatformRequirements":"other",
+         "supportedPlatforms": "sup"
+      }
+   }
+}
