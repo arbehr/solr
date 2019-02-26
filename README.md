@@ -10,10 +10,10 @@
 
 3. Adicionar os cores pro Solr com os comandos
 
-<br /> bin/solr create -c Document
-<br /> bin/solr create -c DocumentDto
-<br /> bin/solr create -c DocumentTinyDto
-<br /> bin/solr create -c Files
-<br /> bin/solr create -c User
+   <br /> bin/solr create -c Document
+   <br /> bin/solr create -c DocumentDto
+   <br /> bin/solr create -c DocumentTinyDto
+   <br /> bin/solr create -c Files
+   <br /> bin/solr create -c User
 
 4. Subir o projeto como de costume(Maven clean package e rodar o spring boot)
