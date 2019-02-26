@@ -1,6 +1,6 @@
 # solr
 
-1. Instalar Solr(Qualquer nova versão)
+1. Instalar Solr: https://tecadmin.net/install-apache-solr-on-ubuntu/ , mudando a versão para 7.7.0 ou a última que estiver disponivel no site
 2. Subir o servidor com o comando:
    
    <br /> bin/solr start
